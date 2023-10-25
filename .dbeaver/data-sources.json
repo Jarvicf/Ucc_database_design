@@ -1,7 +1,7 @@
 {
 	"folders": {},
 	"connections": {
-		"oracle_thin-18b45945e82-5db51f2f8a249cae": {
+		"oracle_thin-18b6821d472-2df4faa124096220": {
 			"provider": "oracle",
 			"driver": "oracle_thin",
 			"name": "XEPDB1",

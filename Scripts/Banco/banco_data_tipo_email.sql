@@ -1,0 +1,3 @@
+INSERT INTO BANCO.TIPO_EMAILS (ID_EMAIL,DESCRIPCION) VALUES
+	 (1,'Normal'),
+	 (2,'Coorporativo');

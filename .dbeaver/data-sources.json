@@ -1,16 +1,16 @@
 {
 	"folders": {},
 	"connections": {
-		"oracle_thin-18b6821d472-2df4faa124096220": {
+		"oracle_thin-18b97ea5532-2b96aa0edd06a078": {
 			"provider": "oracle",
 			"driver": "oracle_thin",
-			"name": "XEPDB1",
+			"name": "ORCL",
 			"save-password": true,
 			"configuration": {
 				"host": "localhost",
 				"port": "1521",
-				"database": "XEPDB1",
-				"url": "jdbc:oracle:thin:@//localhost:1521/XEPDB1",
+				"database": "ORCL",
+				"url": "jdbc:oracle:thin:@//localhost:1521/ORCL",
 				"configurationType": "MANUAL",
 				"home": "D:\\Oracle\\app\\product\\11.2.0\\client_2",
 				"type": "dev",
